@@ -109,6 +109,7 @@ if (!$isLoggedIn):
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login - Panel de Administración</title>
+    <link rel="icon" href="favicon.png" type="image/png">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -241,6 +242,7 @@ $currentData = $dataId ? getDataById($dataId) : null;
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Panel de Administración</title>
+    <link rel="icon" href="favicon.png" type="image/png">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
