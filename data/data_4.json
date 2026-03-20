@@ -1,0 +1,12 @@
+{
+    "titulo": "Info Series",
+    "mostrar_busqueda": false,
+    "mostrar_fecha_clima": false,
+    "items": [
+        {
+            "nombre": "Por cargar",
+            "url": "https://cookpete.github.io/react-player/",
+            "bus": ""
+        }
+    ]
+}

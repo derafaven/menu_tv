@@ -1,0 +1,27 @@
+{
+    "titulo": "Inicio",
+    "mostrar_busqueda": false,
+    "mostrar_fecha_clima": true,
+    "items": [
+        {
+            "nombre": "Peliculas/Series",
+            "url": "./index.php?id=2"
+        },
+        {
+            "nombre": "Deportes",
+            "url": "./index.php?id=3"
+        },
+        {
+            "nombre": "Info de series",
+            "url": "./index.php?id=4"
+        },
+        {
+            "nombre": "Reproductores",
+            "url": "./index.php?id=5"
+        },
+        {
+            "nombre": "Url",
+            "url": "https://yopmail.com/?testtv"
+        }
+    ]
+}

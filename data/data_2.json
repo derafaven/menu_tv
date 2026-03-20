@@ -1,0 +1,287 @@
+{
+    "titulo": "Peliculas",
+    "mostrar_busqueda": true,
+    "mostrar_fecha_clima": false,
+    "items": [
+        {
+            "nombre": "detodopeliculas.nu",
+            "url": "https://detodopeliculas.nu",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "cinemitas.org",
+            "url": "https://cinemitas.org",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "zonaaps.com",
+            "url": "https://zonaaps.com",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "pelishaxpro.com",
+            "url": "https://pelishaxpro.com",
+            "bus": "/search?search="
+        },
+        {
+            "nombre": "verpeliculasultra.com",
+            "url": "https://verpeliculasultra.com",
+            "bus": "/search?q="
+        },
+        {
+            "nombre": "flixlatam",
+            "url": "https://flixlatam.com",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "seriesgod.com",
+            "url": "https://seriesgod.com",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "cinecalidad.bar",
+            "url": "https://cinecalidad.bar",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "cinecalidad.ec",
+            "url": "https://www.cinecalidad.ec",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "seriesmega.org",
+            "url": "https://seriesmega.org",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "peliculasmx.net",
+            "url": "https://peliculasmx.net",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "pelisplushd.la",
+            "url": "https://www.pelisplushd.la",
+            "bus": "/search?s="
+        },
+        {
+            "nombre": "playpelis.net",
+            "url": "https://playpelis.net",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "entrepeliculasyseries.nz",
+            "url": "https://entrepeliculasyseries.nz",
+            "bus": "/search?s="
+        },
+        {
+            "nombre": "lupacine.tv",
+            "url": "https://www.lupacine.tv",
+            "bus": "/search?keyword="
+        },
+        {
+            "nombre": "pelisgratishd.net",
+            "url": "https://www.pelisgratishd.net",
+            "bus": "/buscar?q="
+        },
+        {
+            "nombre": "cc5w.series24.cc",
+            "url": "https://cc5w.series24.cc",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "series24.one",
+            "url": "https://www.series24.one",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "series24.ink",
+            "url": "https://series24.ink",
+            "bus": "/buscar?q="
+        },
+        {
+            "nombre": "pelis28.in",
+            "url": "https://pelis28.in",
+            "bus": "/search?s="
+        },
+        {
+            "nombre": "ver.pelis28.net",
+            "url": "https://ver.pelis28.net",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "elrefugiodelpirata",
+            "url": "https://elrefugiodelpirata.com",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "pelicinehd.com",
+            "url": "https://pelicinehd.com",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "ww3.gnulahd.nu",
+            "url": "https://ww3.gnulahd.nu",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "wnv5.gnula.cc",
+            "url": "https://wnv5.gnula.cc",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "zona-leros.com",
+            "url": "https://www.zona-leros.com/series-h",
+            "bus": "https://www.zona-leros.com/search?q="
+        },
+        {
+            "nombre": "piratahub.to",
+            "url": "https://piratahub.to",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "ww9.cuevana3.to",
+            "url": "https://ww9.cuevana3.to",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "cue.cuevana3.nu",
+            "url": "https://cue.cuevana3.nu",
+            "bus": "/search?s="
+        },
+        {
+            "nombre": "cuevanapelis.net",
+            "url": "https://cuevanapelis.net",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "cuevana3.store",
+            "url": "https://cuevana3.store",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "cuevana3plus.net",
+            "url": "https://cuevana3plus.net/",
+            "bus": "https://cuevana3plus.net/peliculas?genre=&year=&sort=newest&search="
+        },
+        {
+            "nombre": "pelisenlinea.com",
+            "url": "https://pelisenlinea.com",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "pelisflix1.food",
+            "url": "https://pelisflix1.food",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "pelisflix20.cyou",
+            "url": "https://pelisflix20.cyou",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "verpelis.gratis",
+            "url": "https://verpelis.gratis",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "pelisipad.com",
+            "url": "https://pelisipad.com",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "cinehdplus.zone",
+            "url": "https://cinehdplus.zone",
+            "bus": "?do=search&subaction=search&story="
+        },
+        {
+            "nombre": "pelismart.mov",
+            "url": "https://pelismart.mov",
+            "bus": "/search?s="
+        },
+        {
+            "nombre": "blog-peliculas.net",
+            "url": "https://blog-peliculas.net",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "pelisflixhd.com.es",
+            "url": "https://pelisflixhd.com.es",
+            "bus": "/search?search="
+        },
+        {
+            "nombre": "flixcorn",
+            "url": "https://www.flixcorn.com",
+            "bus": "/busqueda.php/?s="
+        },
+        {
+            "nombre": "abandomoviez.net",
+            "url": "https://www.abandomoviez.net",
+            "bus": "/db/busca_titulo.php?busco2="
+        },
+        {
+            "nombre": "latinomegahd.net",
+            "url": "https://www.latinomegahd.net",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "descargatepelis.org",
+            "url": "https://www.descargatepelis.org",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "lastflix.com",
+            "url": "https://lastflix.com",
+            "bus": "/search?keyword="
+        },
+        {
+            "nombre": "watchseries.bar",
+            "url": "https://watchseries.bar/home",
+            "bus": "https://watchseries.bar/search/"
+        },
+        {
+            "nombre": "lamovie.cc",
+            "url": "https://lamovie.cc",
+            "bus": "/search?keyword="
+        },
+        {
+            "nombre": "telepisodes.org",
+            "url": "https://telepisodes.org",
+            "bus": "/search/"
+        },
+        {
+            "nombre": "beta.levidia.ch",
+            "url": "https://beta.levidia.ch",
+            "bus": "/search.php?q="
+        },
+        {
+            "nombre": "thenkiri.ng",
+            "url": "https://thenkiri.ng",
+            "bus": "/?s="
+        },
+        {
+            "nombre": "fmovies.today",
+            "url": "https://fmovies.today",
+            "bus": "/search?q="
+        },
+        {
+            "nombre": "bingewatch.stream",
+            "url": "https://bingewatch.stream",
+            "bus": "/search?keyword="
+        },
+        {
+            "nombre": "subttsearch.com",
+            "url": "https://subttsearch.com",
+            "bus": "https://subttsearch.com/tt-results/#gsc.tab=0&gsc.q="
+        },
+        {
+            "nombre": "srtfiles.com",
+            "url": "https://www.srtfiles.com",
+            "bus": "https://www.srtfiles.com/subtitles/"
+        },
+        {
+            "nombre": "subsource.net",
+            "url": "https://subsource.net",
+            "bus": "/search?q="
+        }
+    ]
+}

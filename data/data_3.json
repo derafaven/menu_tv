@@ -1,0 +1,87 @@
+{
+    "titulo": "Deportes",
+    "mostrar_busqueda": false,
+    "mostrar_fecha_clima": false,
+    "items": [
+        {
+            "nombre": "streamtpglobal.com",
+            "url": "https://streamtpglobal.com/eventos.html",
+            "bus": ""
+        },
+        {
+            "nombre": "la12hd.com",
+            "url": "https://la12hd.com",
+            "bus": ""
+        },
+        {
+            "nombre": "rojadirecta.ec",
+            "url": "https://www.rojadirecta.ec/",
+            "bus": ""
+        },
+        {
+            "nombre": "futbollibrestv.pe",
+            "url": "https://futbollibrestv.pe/",
+            "bus": ""
+        },
+        {
+            "nombre": "futbollibre.mx",
+            "url": "https://futbollibre.mx/",
+            "bus": ""
+        },
+        {
+            "nombre": "rojadirectatve",
+            "url": "https://rojadirectatve.com/",
+            "bus": ""
+        },
+        {
+            "nombre": "deporte-libre.com",
+            "url": "https://deporte-libre.com/",
+            "bus": ""
+        },
+        {
+            "nombre": "deporte-libre.click",
+            "url": "https://deporte-libre.click/",
+            "bus": ""
+        },
+        {
+            "nombre": "deportelibres.shop",
+            "url": "https://deportelibres.shop/",
+            "bus": ""
+        },
+        {
+            "nombre": "deporflix.com",
+            "url": "https://deporflix.com/",
+            "bus": ""
+        },
+        {
+            "nombre": "pelota-libre.net",
+            "url": "https://pelota-libre.net/",
+            "bus": ""
+        },
+        {
+            "nombre": "tvhdlibre.com",
+            "url": "https://tvhdlibre.com/",
+            "bus": ""
+        },
+        {
+            "nombre": "television.libre.futbol",
+            "url": "https://television.libre.futbol/",
+            "bus": ""
+        },
+        {
+            "nombre": "rojadirectahdtv.com",
+            "url": "https://rojadirectahdtv.com/",
+            "bus": ""
+        },
+        {
+            "nombre": "rojadirectaenvivo.pl",
+            "url": "https://www.rojadirectaenvivo.pl",
+            "bus": ""
+        },
+        {
+            "nombre": "rojadirectatv.cv",
+            "url": "https://www.rojadirectatv.cv/",
+            "bus": ""
+        }
+    ]
+}

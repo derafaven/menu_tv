@@ -1,0 +1,27 @@
+{
+    "titulo": "Reproductores",
+    "mostrar_busqueda": false,
+    "mostrar_fecha_clima": false,
+    "items": [
+        {
+            "nombre": "Cookpete.github.io/react-player",
+            "url": "https://cookpete.github.io/react-player/",
+            "bus": ""
+        },
+        {
+            "nombre": "Videojs",
+            "url": "https://videojs-http-streaming.netlify.app",
+            "bus": ""
+        },
+        {
+            "nombre": "RB/Cookpete.github.io/react-player",
+            "url": "../rep_video1/index.html",
+            "bus": ""
+        },
+        {
+            "nombre": "Youtube List",
+            "url": "../rep_you_list/index.html?ls=1",
+            "bus": ""
+        }
+    ]
+}
